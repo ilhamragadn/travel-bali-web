@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: SF Pro Display;
+  font-weight: 400;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 84.29px;
+  font-style: normal;
+}
+
+#homepage {
+  background-image: url(/img/bg_homepage.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+#about {
+  background-image: url(/img/bg_readmore.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+#reservation {
+  background-image: url(/img/bg_reservation.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.btn.about-us {
+  color: #fcb371;
+  border: #fcb371 solid 2px;
+  border-radius: 6px;
+  width: 156px;
+  height: 46px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.btn.about-us:hover {
+  color: #ffffff;
+  background-color: #fcb371;
+  border-radius: 6px;
+  width: 156px;
+  height: 46px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.btn.reservation {
+  color: #ffffff;
+  background-color: #fcb371;
+  border-radius: 6px;
+  width: 156px;
+  height: 46px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.btn.reservation:hover {
+  color: #fcb371;
+  background-color: #ffffff;
+  border-radius: 6px;
+  width: 156px;
+  height: 46px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.text-about {
+  font-family: SF Pro Display;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: center;
+  height: 190px;
+  top: 301px;
+}
+
+.btn.custom-submit {
+  color: #ffffff;
+  background-color: #fcb371;
+  border-radius: 6px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.btn.custom-submit:hover {
+  color: #fcb371;
+  background-color: #ffffff;
+  border-radius: 6px;
+  font-family: "Pacifico", cursive;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: center;
+}
